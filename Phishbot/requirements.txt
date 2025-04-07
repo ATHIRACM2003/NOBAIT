@@ -1,0 +1,6 @@
+python-dotenv==1.0.1
+google-generativeai==0.3.2
+streamlit==1.30.0
+protobuf~=4.25.6
+whois~=1.20240129.2
+requests~=2.32.3
